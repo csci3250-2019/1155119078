@@ -1,22 +1,25 @@
-#student - 1155119078
-Hello All
-#Self-Intro
-Samael Here
-#Hobbies
+# Readme
 
+Hi! I'm Samael Leung 
+
+# Hobbies
 LOL
 Ice hockey
 Music
 
-#Learning Experience
+## Create files and folders
+
 C++
 JAVA
-Newbie to Github
+**Newbie to Github** 
 
-#Target
-No need to work
+## Current Study Subject
 
-#Comment of this course
-Course|CSCI3250+3251
----------|------------
-Comment|Not bad
+
+|Code                |Subject                          |Retake?                        |
+|----------------|-------------------------------|-----------------------------|
+|CSCI2100|`Data Structure`            |No            |
+|MATH1519          |`Calculus for Engineer`            |Yes            |
+|ENGG1110          |`Problem Solving `|No|
+
+![image](https://github.com/csci3250-2019/Student-1155119078/blob/master/Capture.PNG)
